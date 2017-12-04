@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\1147050124 Neng Lisda\Pertemuan10_starterSharedPreference-master\Pertemuan10_starter.iml" filepath="D:\1147050124 Neng Lisda\Pertemuan10_starterSharedPreference-master\Pertemuan10_starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan10_starterSharedPreference-master.iml" filepath="$PROJECT_DIR$/Pertemuan10_starterSharedPreference-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
